@@ -2,6 +2,9 @@
 Normally shoes are not allowed in Japanese houses. In such cases, there is a manner of taking off one's shoes at the entrance.
 This project aims to acquire good manners. 
 https://youtu.be/hOFOsVOKmBY
+![image](https://user-images.githubusercontent.com/19370970/113467213-8e593a80-947c-11eb-9f0a-14fe12611a2f.png)
+
+
 
 ## docker
 ```Shell
