@@ -23,6 +23,9 @@ git clone https://github.com/lucuha/Shoes-Manner.git
 ```
 
 ## Taking your images
+Move your shoes to get different cases. Pictures are taken continuously.  
+![image](https://user-images.githubusercontent.com/19370970/113467557-91edc100-947e-11eb-85a6-31c70c74c5a6.png)
+
 ```Shell
 python3 still.py  --width=640 --height=480 --input-rate=1 --headless  csi://0 image/img_%04i.jpg
 ```
