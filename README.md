@@ -1,6 +1,7 @@
 # Shoes-Manner  
 Normally shoes are not allowed in Japanese houses. In such cases, there is a manner of taking off one's shoes at the entrance.
 This project aims to acquire good manners. 
+https://youtu.be/hOFOsVOKmBY
 
 ## docker
 ```Shell
