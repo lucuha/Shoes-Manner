@@ -5,7 +5,7 @@ https://youtu.be/hOFOsVOKmBY
 ![image](https://user-images.githubusercontent.com/19370970/113467245-ca8c9b00-947c-11eb-84e3-4a3fc7ab1591.png)
 
 
-## docker
+## Docker
 ```Shell
 git clone --recursive https://github.com/dusty-nv/jetson-inference
 cd jetson-inference
